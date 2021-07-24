@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "68627785713",
+    "project_id": "sanskrit-f24c2",
+    "storage_bucket": "sanskrit-f24c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68627785713:android:39ee8d5ca584fb837e0650",
+        "android_client_info": {
+          "package_name": "com.sanskrit.sanskrit_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68627785713-buaof0j4967v8u165isqmpqkanqttqkf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sanskrit.sanskrit_project",
+            "certificate_hash": "2b3dad0bad97f78c80156955c44630821a716b15"
+          }
+        },
+        {
+          "client_id": "68627785713-ifi4vscp5mbenihsfb1u371p5gqh8jib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sanskrit.sanskrit_project",
+            "certificate_hash": "f02adcd1ff3fa9b321cbc4eb9c3dd84a5f5a2180"
+          }
+        },
+        {
+          "client_id": "68627785713-ojto8ctltpt39m8dksoo711g3suh8tb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqdnYH3NngvrpLB4a0MsNnZIZHOXmreg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68627785713-ojto8ctltpt39m8dksoo711g3suh8tb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
