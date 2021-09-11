@@ -1,5 +1,9 @@
 # Sanskritive
 
+Developed a social app incorporated with global chat and location preference where people with common interests in Sanskrit can connect.
+
+Used Flutter, Dart, and Firebase for development, completed in 5 days in IITR Hackathon.
+
 Project for Productathon (IITR) participating as team ZENITH.
 App Walkthrough - https://youtu.be/dF9k11sBIDs
 
